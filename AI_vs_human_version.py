@@ -1,8 +1,8 @@
 # importing the required packages
 import pygame as pg
 import sys
-import math
 import numpy as np
+import math
 import random
 
 # initializa pygame modules

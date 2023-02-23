@@ -1,7 +1,8 @@
 ### Connect 4 Versions
+
 The game has two versions  
-version 1: two human players play against each other  
-version 2: human player plays against AI 
+  - version 1: two human players play against each other  
+  - version 2: human player plays against AI 
 
 The AI version is implemented with two versions
   - version 1: AI chooses a random place to put its piece

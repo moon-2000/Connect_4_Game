@@ -19,7 +19,7 @@ The AI version is implemented with two versions
 
 ### 2 - choose the playing version
   
-      - To play the game with both versions
+      - To play the game with both versions and switch between them by pressing key C
         py main.py
 
       - To run connect 4 with 2-human players version ONLY 
@@ -31,9 +31,9 @@ The AI version is implemented with two versions
 
 ### 3 - to use keys correctly 
 
-       c  to change the game mode from "player vs player" to "player vs AI" and vice versa
-       l  to change AI_level from "minimax algorithm" to "random choice"
-       r  to restart the game 
+       C  to change the game mode from "player vs player" to "player vs AI" and vice versa
+       L  to change AI_level from "minimax algorithm" to "random choice"
+       R  to restart the game 
 
 
 ## Resources for the game code 
